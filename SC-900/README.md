@@ -25,7 +25,21 @@ Each concept is transformed into a **scroll** — a combination of music, struct
 - Understand how responsibility shifts across cloud service models  
 - Learn what the provider manages vs what the customer controls  
 
-📖 [View Scroll](./01-TheCloudLadder/README.md)
+📖 [View Scroll](./SC-900/01-TheCloudLadder/README.md)
+
+---
+
+### 🎵 Scroll II — What You Keep  
+**Customer Responsibilities in the Cloud**
+
+A core ballad explaining customer responsibilities in the cloud:
+
+- Data  
+- Identity and access  
+- Endpoints  
+- Configuration  
+
+📖 [View Scroll](./SC-900/02-WhatYouKeep/README.md)
 
 ---
 
@@ -71,4 +85,4 @@ Created and maintained by **Helen Najar | Ballad by Lionheart**
 
 ---
 
-> *“One scroll at a time, the system becomes clear.”*
+> *“One scroll at a time, the system becomes clear."*
