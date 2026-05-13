@@ -19,6 +19,23 @@ It is **memory forged in melody**.
 
 ---
 
+## 🎧 Certification Ballads Playlist
+
+Listen to the full CyberScrolls learning series on YouTube:
+
+🎵 Playlist:  
+https://www.youtube.com/playlist?list=PLPt5q5IoIzIA5Im4fq4gEFTlr40xcKAws
+
+📺 Channel:  
+https://www.youtube.com/@balladbylionheart/
+
+Each scroll combines:
+- Technical explanation  
+- Musical repetition  
+- Structured memory reinforcement  
+
+---
+
 ## 📜 Structure
 
 Each certification topic includes:
@@ -28,11 +45,10 @@ Each certification topic includes:
 - 🧠 **Key Takeaways for Study**  
 - 🔗 Optional references and learning resources  
 
----
+## 📜 Scrolls
 
-## 🎓 Current Track
-
-### **The Cloud Ladder | SC-900**
+### 🎵 Scroll I — The Cloud Ladder  
+**SC-900 | Shared Responsibility Model**
 
 A foundational ballad explaining:
 
@@ -43,6 +59,54 @@ A foundational ballad explaining:
 
 📖 **View the Scroll:**  
 [SC-900 / The Cloud Ladder](./SC-900/01-TheCloudLadder/README.md)
+
+---
+
+### 🎵 Scroll II — What You Keep  
+**SC-900 | Customer Responsibilities in the Cloud**
+
+A core ballad explaining responsibilities that always remain with the customer:
+
+- Data  
+- Identity and access  
+- Endpoints  
+- Configuration  
+
+📖 **View the Scroll:**  
+[SC-900 / What You Keep](./SC-900/02-WhatYouKeep/README.md)
+
+---
+
+### 🎵 Scroll III — Built Beyond Our Walls  
+**SC-900 | Cloud Security Advantages**
+
+A ballad exploring the security advantages of cloud computing:
+
+- Physical security  
+- Infrastructure maintenance  
+- Threat intelligence  
+- Large-scale monitoring  
+- Shared responsibility in modern cloud environments  
+
+📖 **View the Scroll:**  
+[SC-900 / Built Beyond Our Walls](./SC-900/03-BuiltBeyondOurWalls/README.md)
+
+---
+
+### 🎵 Scroll IV — The Mind You Guide  
+**SC-900 | AI Shared Responsibility Model**
+
+A technical ballad explaining how responsibility extends into AI systems:
+
+- AI Platform  5014 Peekskill Drive
+- AI Application  
+- AI Usage  
+- Provider responsibilities  
+- Customer responsibilities  
+- AI-specific risks such as prompt injection  
+
+📖 **View the Scroll:**  
+[SC-900 / The Mind You Guide](./SC-900/04-TheMindYouGuide/README.md)
 
 ---
 

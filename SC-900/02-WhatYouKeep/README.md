@@ -89,6 +89,9 @@ The repetition of:
 
 creates a strong memory pattern for quick recall during exams.
 
+🎧 **Listen to the ballad on YouTube:**  
+[What You Keep | SC-900](https://www.youtube.com/watch?v=arjQYFcE1es&list=PLPt5q5IoIzIA5Im4fq4gEFTlr40xcKAws&index=6)
+
 ---
 
 ## 🔗 Official Learning Resource

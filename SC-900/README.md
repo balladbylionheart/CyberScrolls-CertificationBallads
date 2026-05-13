@@ -17,6 +17,20 @@ Each concept is transformed into a **scroll** — a combination of music, struct
 
 ---
 
+## 🎧 SC-900 Ballads Playlist
+
+Listen to the SC-900 Certification Ballads on YouTube:
+
+🎵 Playlist:  
+https://www.youtube.com/playlist?list=PLPt5q5IoIzIA5Im4fq4gEFTlr40xcKAws
+
+These songs are designed to reinforce certification concepts through:
+- Rhythm  
+- Repetition  
+- Structured memory patterns  
+
+---
+
 ## 📜 Scrolls
 
 ### 🎵 Scroll I — The Cloud Ladder  
@@ -25,21 +39,36 @@ Each concept is transformed into a **scroll** — a combination of music, struct
 - Understand how responsibility shifts across cloud service models  
 - Learn what the provider manages vs what the customer controls  
 
-📖 [View Scroll](./SC-900/01-TheCloudLadder/README.md)
+📖 [View Scroll](./01-TheCloudLadder/README.md)
 
 ---
 
 ### 🎵 Scroll II — What You Keep  
 **Customer Responsibilities in the Cloud**
 
-A core ballad explaining customer responsibilities in the cloud:
+A core ballad explaining responsibilities that always remain with the customer:
 
 - Data  
 - Identity and access  
 - Endpoints  
 - Configuration  
 
-📖 [View Scroll](./SC-900/02-WhatYouKeep/README.md)
+📖 [View Scroll](./02-WhatYouKeep/README.md)
+
+---
+
+### 🎵 Scroll III — Built Beyond Our Walls  
+**Cloud Security Advantages**
+
+A ballad exploring the advantages of cloud-based security:
+
+- Physical security  
+- Infrastructure maintenance  
+- Threat intelligence  
+- Large-scale monitoring  
+- Shared responsibility in cloud environments  
+
+📖 [View Scroll](./03-BuiltBeyondOurWalls/README.md)
 
 ---
 
@@ -85,4 +114,4 @@ Created and maintained by **Helen Najar | Ballad by Lionheart**
 
 ---
 
-> *“One scroll at a time, the system becomes clear."*
+> *“One scroll at a time, the system becomes clear.”*

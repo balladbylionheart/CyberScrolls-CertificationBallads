@@ -103,6 +103,9 @@ Each verse represents a service model:
 
 The repetition of the ladder reinforces how responsibility shifts across the cloud.
 
+🎧 **Listen to the ballad on YouTube:**  
+[The Cloud Ladder | SC-900](https://www.youtube.com/watch?v=wx8DJyKdek0&list=PLPt5q5IoIzIA5Im4fq4gEFTlr40xcKAws)
+
 ---
 
 ## 🔗 Official Learning Resource
