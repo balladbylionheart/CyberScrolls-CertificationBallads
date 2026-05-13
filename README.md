@@ -12,7 +12,7 @@ Each entry is designed to:
 
 - Reinforce technical knowledge through repetition and rhythm  
 - Simplify complex topics into memorable patterns  
-- Bridge logic and creativity — where learning becomes something you can hear, not just read  
+- Bridge logic and creativity — where learning becomes something you can hear, not just read
 
 This is not just study material.  
 It is **memory forged in melody**.
@@ -45,68 +45,23 @@ Each certification topic includes:
 - 🧠 **Key Takeaways for Study**  
 - 🔗 Optional references and learning resources  
 
-## 📜 Scrolls
+---
 
-### 🎵 Scroll I — The Cloud Ladder  
-**SC-900 | Shared Responsibility Model**
+## 🎓 Certification Paths
 
-A foundational ballad explaining:
+### 🛡️ SC-900 — Security, Compliance, and Identity Fundamentals
 
-- IaaS  
-- PaaS  
-- SaaS  
+Certification ballads covering:
+
 - Shared Responsibility Model  
+- Cloud Security Advantages  
+- AI Shared Responsibility  
+- Defense in Depth  
+- Zero Trust  
+- Identity and Access concepts  
 
-📖 **View the Scroll:**  
-[SC-900 / The Cloud Ladder](./SC-900/01-TheCloudLadder/README.md)
-
----
-
-### 🎵 Scroll II — What You Keep  
-**SC-900 | Customer Responsibilities in the Cloud**
-
-A core ballad explaining responsibilities that always remain with the customer:
-
-- Data  
-- Identity and access  
-- Endpoints  
-- Configuration  
-
-📖 **View the Scroll:**  
-[SC-900 / What You Keep](./SC-900/02-WhatYouKeep/README.md)
-
----
-
-### 🎵 Scroll III — Built Beyond Our Walls  
-**SC-900 | Cloud Security Advantages**
-
-A ballad exploring the security advantages of cloud computing:
-
-- Physical security  
-- Infrastructure maintenance  
-- Threat intelligence  
-- Large-scale monitoring  
-- Shared responsibility in modern cloud environments  
-
-📖 **View the Scroll:**  
-[SC-900 / Built Beyond Our Walls](./SC-900/03-BuiltBeyondOurWalls/README.md)
-
----
-
-### 🎵 Scroll IV — The Mind You Guide  
-**SC-900 | AI Shared Responsibility Model**
-
-A technical ballad explaining how responsibility extends into AI systems:
-
-- AI Platform  5014 Peekskill Drive
-- AI Application  
-- AI Usage  
-- Provider responsibilities  
-- Customer responsibilities  
-- AI-specific risks such as prompt injection  
-
-📖 **View the Scroll:**  
-[SC-900 / The Mind You Guide](./SC-900/04-TheMindYouGuide/README.md)
+📖 **Open the SC-900 Scrolls:**  
+[View SC-900 Learning Path](./SC-900/README.md)
 
 ---
 
