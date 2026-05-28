@@ -72,6 +72,22 @@ A ballad exploring the advantages of cloud-based security:
 
 ---
 
+### 🎵 Scroll IV — The Mind You Guide  
+**AI Shared Responsibility Model**
+
+A technical ballad exploring how responsibility extends into AI systems:
+
+- AI Platform  
+- AI Application  
+- AI Usage  
+- Provider responsibilities  
+- Customer responsibilities  
+- AI-specific risks such as prompt injection  
+
+📖 [View Scroll](./04-TheMindYouGuide/README.md)
+
+---
+
 ## 🧠 How to Use This Section
 
 Each scroll is designed to be experienced in two ways:
