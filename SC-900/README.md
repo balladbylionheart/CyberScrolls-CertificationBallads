@@ -88,6 +88,23 @@ A technical ballad exploring how responsibility extends into AI systems:
 
 ---
 
+### 🎵 Scroll V — Layers Standing Strong
+**Defense in Depth**
+
+A ballad explaining Microsoft's layered security strategy:
+
+- Physical Security
+- Identity and Access
+- Perimeter Security
+- Network Security
+- Compute Security
+- Application Security
+- Data Security
+
+📖 [View Scroll](./05-LayersStandingStrong/README.md)
+
+---
+
 ## 🧠 How to Use This Section
 
 Each scroll is designed to be experienced in two ways:
