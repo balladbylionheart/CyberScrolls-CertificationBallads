@@ -94,7 +94,7 @@ A technical ballad exploring how responsibility extends into AI systems:
 A ballad explaining Microsoft's layered security strategy:
 
 - Physical Security
-- Identity and Access
+- Identity Security
 - Perimeter Security
 - Network Security
 - Compute Security

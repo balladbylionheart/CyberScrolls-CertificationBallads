@@ -7,105 +7,123 @@
 
 Defense in Depth is a security strategy that uses multiple layers of protection to reduce risk.
 
-Rather than relying on a single control, organizations deploy overlapping safeguards throughout their environment.
+Rather than relying on a single security control, organizations deploy overlapping safeguards throughout their environment.
 
-If one layer fails, additional layers remain in place to help protect systems and data.
+If one layer fails, another layer remains to help protect systems and data.
 
-This layered approach improves resilience against attacks and helps limit the impact of security incidents.
+This layered approach helps reduce the likelihood that a single attack can compromise an entire environment.
 
 ---
 
 ## 🛡️ Defense in Depth Layers
 
-Microsoft describes Defense in Depth as a series of security layers working together.
+Defense in Depth consists of multiple security layers working together.
 
-### 🏢 Physical Security
+### 🏢 Physical
 
-Protects the infrastructure itself through:
+Physical security protects infrastructure through:
 
-- Locked facilities
-- Security personnel
+- Locks
 - Badge readers
-- Surveillance systems
+- Cameras
+- Secured facilities
+
+Physical protections help prevent unauthorized access to systems and resources.
 
 ---
 
-### 👤 Identity and Access
+### 👤 Identity
 
-Controls who can access resources through:
+Identity security controls who can access resources.
 
-- Multifactor Authentication (MFA)
-- Role-Based Access Control (RBAC)
+Examples include:
+
+- MFA (Multifactor Authentication)
+- RBAC (Role-Based Access Control)
 - Conditional Access
-- Identity protection policies
+
+Identity acts as the gatekeeper for modern security.
 
 ---
 
-### 🌐 Perimeter Security
+### 🌐 Perimeter
 
-Protects the network boundary through:
+Perimeter security helps protect network boundaries.
+
+Examples include:
 
 - Firewalls
 - DDoS protection
 - Traffic filtering
-- Network edge controls
+
+These controls help block threats before they reach internal resources.
 
 ---
 
-### 🔗 Network Security
+### 🔗 Network
 
-Protects communication between systems through:
-
-- Network segmentation
-- Network Security Groups (NSGs)
-- Traffic controls
-- Secure network design
-
----
-
-### 🖥️ Compute Security
-
-Protects servers and workloads through:
-
-- System patching
-- Secure configurations
-- Port management
-- Resource monitoring
-
----
-
-### ⚙️ Application Security
-
-Protects software and services through:
-
-- Secure development practices
-- Input validation
-- Vulnerability management
-- Application testing
+Network security controls how systems communicate.
 
 Examples include:
 
-- SQL Injection protection
-- Cross-Site Scripting (XSS) mitigation
+- Segmentation
+- Network Security Groups (NSGs)
+- Traffic control policies
+
+Network controls help limit attacker movement.
 
 ---
 
-### 📊 Data Security
+### 🖥️ Compute
 
-The final layer and often the primary target of attackers.
+Compute security protects servers, virtual machines, and workloads.
 
-Data protection includes:
+Examples include:
+
+- Patching
+- Secure configurations
+- Port restrictions
+- Monitoring
+
+These controls help reduce vulnerabilities in running systems.
+
+---
+
+### ⚙️ Application
+
+Application security protects software and services.
+
+Examples include:
+
+- Secure coding practices
+- Input validation
+- Vulnerability testing
+
+Common attacks include:
+
+- SQL Injection
+- Cross-Site Scripting (XSS)
+
+---
+
+### 📊 Data
+
+Data is the final layer and often the primary target of attackers.
+
+Examples include:
 
 - Encryption
 - Classification
 - Access controls
 - Data governance
 
+Protecting data remains the ultimate goal of Defense in Depth.
+
 ---
 
 ## 🧠 Exam Memory Hook
 
-Defense in Depth Layers (Outside → Inside):
+Defense in Depth Layers (Outside → Inside)
 
 1. Physical
 2. Identity
@@ -117,14 +135,10 @@ Defense in Depth Layers (Outside → Inside):
 
 Memory phrase:
 
-**Please Identify Perimeters, Networks, Computers, Applications, Data**
-
-Or sing:
-
-> Physical, Identity, Perimeter too,  
-> Network, Compute coming through.  
-> Application, Data at the core,  
-> Defense in Depth forevermore.
+> Physical, Identity, Perimeter line,  
+> Network, Compute standing in line.  
+> Application guarding the way,  
+> Data protected at the center stays.
 
 ---
 
@@ -132,7 +146,17 @@ Or sing:
 
 **"Layers Standing Strong"** transforms Defense in Depth into a memorable sequence of security layers.
 
-The repetition of the layers helps reinforce the order used throughout Microsoft's security framework.
+The repetition of:
+
+- Physical
+- Identity
+- Perimeter
+- Network
+- Compute
+- Application
+- Data
+
+helps reinforce the layered security model used throughout Microsoft's security framework.
 
 🎧 **Listen to the ballad on YouTube:**  
 [Layers Standing Strong | SC-900](YOUR_LINK_HERE)
@@ -148,4 +172,4 @@ https://learn.microsoft.com/en-us/training/courses/sc-900t00
 
 ---
 
-> *"When one layer fails, another still stands."*
+> *"If one layer fails, another layer still stands."*
