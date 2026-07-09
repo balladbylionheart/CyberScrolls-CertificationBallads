@@ -159,7 +159,7 @@ The repetition of:
 helps reinforce the layered security model used throughout Microsoft's security framework.
 
 🎧 **Listen to the ballad on YouTube:**  
-[Layers Standing Strong | SC-900](YOUR_LINK_HERE)
+[Layers Standing Strong | SC-900](https://youtu.be/h-OEIZSWmBQ?si=fgkQ5UXxS1tlVyQg)
 
 ---
 
