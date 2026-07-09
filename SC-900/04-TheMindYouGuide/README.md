@@ -163,7 +163,7 @@ The song reinforces:
 Its repetition helps learners remember that AI is not only hosted technology, but also guided technology.
 
 🎧 **Listen to the ballad on YouTube:**  
-[The Mind You Guide | SC-900]()
+[The Mind You Guide | SC-900](https://youtu.be/h-OEIZSWmBQ?si=-XIDzoKgiholpKUu)
 
 ---
 
