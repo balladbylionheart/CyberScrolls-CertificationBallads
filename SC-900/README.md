@@ -105,6 +105,21 @@ A ballad explaining Microsoft's layered security strategy:
 
 ---
 
+### 🎵 Scroll VI — Essential Security Acronyms
+**Security Acronyms**
+
+A memory-focused ballad introducing common SC-900 security terminology:
+
+- RBAC
+- MFA
+- DDoS
+- NSG
+- XSS
+- SQL Injection
+
+📖 [View Scroll](./06-EssentialSecurityAcronyms/README.md)
+
+---
 ## 🧠 How to Use This Section
 
 Each scroll is designed to be experienced in two ways:
