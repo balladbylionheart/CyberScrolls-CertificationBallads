@@ -120,6 +120,21 @@ A memory-focused ballad introducing common SC-900 security terminology:
 📖 [View Scroll](./06-EssentialSecurityAcronyms/README.md)
 
 ---
+
+### 🎵 Scroll VII — The Three Pillars
+**CIA Triad**
+
+A foundational ballad covering the three pillars of information security:
+
+- Confidentiality
+- Integrity
+- Availability
+
+Includes exam memory hooks and common attack examples.
+
+📖 [View Scroll](./07-TheThreePillars/README.md)
+
+---
 ## 🧠 How to Use This Section
 
 Each scroll is designed to be experienced in two ways:

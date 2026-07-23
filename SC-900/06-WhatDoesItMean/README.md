@@ -122,7 +122,7 @@ Key concepts:
 The repeated question-and-answer format reinforces both the acronym and its full meaning, making technical terminology easier to recall during study and certification exams.
 
 🎧 **Listen to the ballad on YouTube:**  
-[Essential Security Acronyms | SC-900](YOUR_YOUTUBE_LINK_HERE)
+[Essential Security Acronyms | SC-900](https://youtu.be/-xKkuBqbDGw)
 
 ---
 
